@@ -13,3 +13,6 @@ I have noticed a relation between age and income as ages from 37 to 51 has the h
 I have concluded that we didn’t achieve gender equality because for people who works 40 hours per week the male percentage of having income more than 50 k is 26.68% while the female percentage is 10.158%.
 ### Question 3. What other attribute/s could be an income predictor/s?
 I deduced that work class, race and education can be also an income predictor as in work class and race percentage of having income more than 50 k changes from one work class and race to another and also the education has high effect on the percent of having high income as high education degrees has more percentage of having high income and number of years of education has high effect on the percent of having high income as by increasing the years of education the percentage increases.
+## Course Certificate
+![Omar-Saad-EL-Gharbawy](https://user-images.githubusercontent.com/84602951/187909316-2f03ad67-38c4-46e0-81dd-3f4dc2586de4.jpg)
+
